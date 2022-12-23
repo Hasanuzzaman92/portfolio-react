@@ -1,0 +1,94 @@
+[
+  {
+    "name": "A1 Photography",
+    "img": "https://i.ibb.co/VHvZH3m/Log-in-a1-photography.png",
+    "id": 1,
+    "link": "https://a1photography-cad16.web.app/",
+    "detailsImg": [
+      "https://i.ibb.co/8bNgpP7/ai-details-2.png",
+      "https://i.ibb.co/PrLLqxt/ai-details-1.png",
+      "https://i.ibb.co/1swFvjH/ai-details-3.png"
+    ],
+    "detailsDesc": "A photography website",
+    "features": "User authentication (google login, email/password login) and new user creation, Save user data in a database, Show notification with toast, photo full-size view on click photo",
+    "technologies": [
+      "React js",
+      "react-router-dom",
+      "tailwind css",
+      "daisy UI",
+      "react-hot-toast",
+      "react-photo-view",
+      "firebase",
+      "Express js",
+      "mongoDB",
+      "dinamic title"
+    ],
+    "clientLink": "https://github.com/Hasanuzzaman92/A1-Photography-with-react",
+    "serverLink": "https://github.com/Hasanuzzaman92/a1-photography-server"
+  },
+  {
+    "name": "E-Learning",
+    "img": "https://i.ibb.co/khynXyR/e-learning-website.png",
+    "id": 2,
+    "link": "https://e-learning-client.web.app/",
+    "detailsImg": [
+      "https://i.ibb.co/khynXyR/e-learning-website.png",
+      "https://i.ibb.co/vXVhtdB/e-2.png",
+      "https://i.ibb.co/vcwj270/e-1.png"
+    ],
+    "detailsDesc": "Online course website",
+    "features": "User authentication( google login, email/password login) and new user creation, pdf download to click a button, Show notification with toast.",
+    "technologies": [
+      "React js",
+      "react-router-dom",
+      "tailwind css",
+      "daisy UI",
+      "react-hot-toast",
+      "react-hero-icons",
+      "react-to-pdf",
+      "firebase",
+      "Express js",
+      "mongoDB"
+    ],
+    "clientLink": "https://github.com/Hasanuzzaman92/e-learning-client",
+    "serverLink": "https://github.com/Hasanuzzaman92/e-learning-server"
+  },
+  {
+    "name": "Quiz-Game",
+    "img": "https://i.ibb.co/NZ2h0v1/Quiz-Game.png",
+    "id": 3,
+    "link": "https://quiz-game-10970a.netlify.app/",
+    "detailsImg": [
+      "https://i.ibb.co/NZ2h0v1/Quiz-Game.png",
+      "https://i.ibb.co/rZGhxM2/Q-2.png",
+      "https://i.ibb.co/kJf1bR5/Q-1.png"
+    ],
+    "detailsDesc": "A Quiz website",
+    "features": "User authentication( google login, email/password login) and new user creation, pdf download to click a button, Show notification with toast.",
+    "technologies": [
+      "React js",
+      "react-router-dom",
+      "tailwind css",
+      "daisy UI",
+      "react-hot-toast",
+      "react-hero-icons",
+      "react-to-pdf",
+      "firebase"
+    ],
+    "clientLink": "https://github.com/Hasanuzzaman92/quiz-game"
+  },
+  {
+    "name": "Select Best Player",
+    "img": "https://i.ibb.co/GJ3yHTV/Select-Top-Players.png",
+    "id": 4,
+    "link": "https://fabulous-cajeta-select-top-five-playe.netlify.app/",
+    "detailsImg": [
+      "https://i.ibb.co/GJ3yHTV/Select-Top-Players.png",
+      "https://i.ibb.co/hCG6mXP/Select-Top-Players2.png"
+    ],
+    "detailsDesc": "Player select website",
+    "features": "Select 5 player maximum, If selected a player it will disabled, calculate total cost of a match",
+    "technologies": ["HTML5", "CSS3", "Bootstrap", "JavaScript", "JS DOM"],
+    "clientLink": "https://github.com/Hasanuzzaman92/best-five-player-select-with-jsDOM"
+  }
+]
