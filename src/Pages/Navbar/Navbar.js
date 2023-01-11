@@ -57,19 +57,8 @@ const Navbar = () => {
           HASANUZZAMAN
         </Link>
       </div>
-      <div className="navbar-center hidden lg:flex">
+      <div className="navbar-end hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{menuItems}</ul>
-      </div>
-      <div className="navbar-end">
-        <a
-          href="https://drive.google.com/file/d/1Im9xq6vd1tR66mwiM_6wOg1TyRVq7aCJ/view?usp=sharing"
-          download="https://drive.google.com/file/d/1Im9xq6vd1tR66mwiM_6wOg1TyRVq7aCJ/view?usp=sharing"
-          target="_blank"
-          className="btn btn-ghost btn-outline text-white"
-          rel="noreferrer"
-        >
-          Download Resume
-        </a>
       </div>
     </div>
   );
